@@ -1,0 +1,11 @@
+p{
+ color: brown;
+ font-family: 'Times New Roman', Times, serif;
+}
+a{
+  font-style: italic;
+  color: brown;
+  background-color: yellow;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: none;
+}
